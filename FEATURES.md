@@ -20,10 +20,10 @@
 ## 🏆 Why Users Love Us
 
 ### 🎮 For Casual Players:
-"Finally understand the game patterns that were invisible before!" - Alex T.
+"Finally understand the game patterns that were invisible before!" - SIMO,.
 
 ### 📊 For Data Lovers:
-"As a data scientist, I'm impressed by the algorithm accuracy!" - Dr. James P.
+"As a data scientist, I'm impressed by the algorithm accuracy!" - Dr. WASSI.
 
 ### 🏆 For Competitive Players:
-"Cut my losses by 60% in the first month!" - Sarah M.
+"Cut my losses by 60% in the first month!" - F00X.
